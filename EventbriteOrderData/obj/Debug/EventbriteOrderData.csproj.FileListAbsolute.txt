@@ -1,0 +1,84 @@
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\EventbriteOrderData.exe.config
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\EventbriteOrderData.exe
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\EventbriteOrderData.pdb
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\obj\Debug\EventbriteOrderData.csprojResolveAssemblyReference.cache
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\obj\Debug\EventbriteOrderData.exe
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\obj\Debug\EventbriteOrderData.pdb
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Json.dll
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.dll
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Primitives.dll
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Newtonsoft.Json.dll
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\ServiceStack.Text.dll
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Json.pdb
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.xml
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Primitives.xml
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Newtonsoft.Json.xml
+c:\users\mark favor\documents\visual studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\ServiceStack.Text.xml
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\EventbriteOrderData.exe.config
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\obj\Debug\EventbriteOrderData.exe
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\obj\Debug\EventbriteOrderData.pdb
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\EventbriteOrderData.exe
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\EventbriteOrderData.pdb
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Json.dll
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.dll
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Newtonsoft.Json.dll
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\ServiceStack.Text.dll
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Json.pdb
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.xml
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Primitives.xml
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\Newtonsoft.Json.xml
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\bin\Debug\ServiceStack.Text.xml
+G:\Development\Mark Favor\Visual Studio 2015\Projects\EventbriteMain\EventbriteOrderData\obj\Debug\EventbriteOrderData.csprojResolveAssemblyReference.cache
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\EventbriteOrderData.exe.config
+C:\Dev\EventbriteMain\EventbriteOrderData\obj\Debug\EventbriteOrderData.exe
+C:\Dev\EventbriteMain\EventbriteOrderData\obj\Debug\EventbriteOrderData.pdb
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\EventbriteOrderData.exe
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\EventbriteOrderData.pdb
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\Json.dll
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\ServiceStack.Text.dll
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\Json.pdb
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\EventbriteMain\EventbriteOrderData\bin\Debug\ServiceStack.Text.xml
+C:\Dev\EventbriteMain\EventbriteOrderData\obj\Debug\EventbriteOrderData.csprojResolveAssemblyReference.cache
